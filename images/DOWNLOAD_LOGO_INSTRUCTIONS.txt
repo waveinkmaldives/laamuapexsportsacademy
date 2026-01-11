@@ -1,0 +1,43 @@
+HOW TO DOWNLOAD THE LASA LOGO FROM FACEBOOK
+============================================
+
+1. Visit the Facebook page:
+   https://www.facebook.com/people/Laamu-Apex-Sports-Academy/100090281827371/
+
+2. Download the Profile Picture (Logo):
+   
+   METHOD 1 - Direct Download:
+   - Right-click on the profile picture/logo
+   - Select "Open image in new tab"
+   - Right-click on the image in the new tab
+   - Select "Save image as..."
+   - Save as "lasa-logo.png" in this folder (d:\OneDrive\LASA\images)
+
+   METHOD 2 - Using Browser Inspector:
+   - Right-click on the profile picture
+   - Select "Inspect" or "Inspect Element"
+   - Look for <img> tag with the profile picture
+   - Copy the image URL
+   - Open the URL in a new tab
+   - Save the image as "lasa-logo.png"
+
+   METHOD 3 - Screenshot (if other methods don't work):
+   - Take a screenshot of the logo
+   - Crop it to just the logo
+   - Save as "lasa-logo.png" in this folder
+
+3. Recommended Image Specifications:
+   - Format: PNG (with transparent background if possible) or JPG
+   - Size: At least 200x200 pixels (square)
+   - Name: lasa-logo.png
+
+4. After downloading:
+   - Place the file in: d:\OneDrive\LASA\images\lasa-logo.png
+   - Refresh your browser to see the logo on the website
+   - The logo will appear in the navigation bar
+
+ALTERNATIVE:
+If you cannot access the Facebook page, you can use any academy logo you have.
+Just rename it to "lasa-logo.png" and place it in this folder.
+
+Note: The website is already configured to display the logo once the image file is in place.
